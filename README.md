@@ -1,4 +1,3 @@
-```markdown
 # 🧠 BlogGenius – AI-Powered Iterative Blog Post Generator
 
 BlogGenius is a full-stack application that generates high-quality blog posts using iterative feedback. Built with **FastAPI** (backend) and **React** (frontend), this tool lets you ideate, refine, and finalize blog content with the help of advanced language models.
