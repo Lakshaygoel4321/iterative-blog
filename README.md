@@ -2,8 +2,6 @@
 
 BlogGenius is a full-stack application that generates high-quality blog posts using iterative feedback. Built with **FastAPI** (backend) and **React** (frontend), this tool lets you ideate, refine, and finalize blog content with the help of advanced language models.
 
-![BlogGenius Demo](https://your-demo-gif-or-screenshot-url.com)
-
 ---
 
 ## 🚀 Features
@@ -32,28 +30,6 @@ BlogGenius is a full-stack application that generates high-quality blog posts us
 - OpenAI/Groq/HuggingFace LLMs (plug-and-play)
 - Pydantic models
 - CORS Middleware
-
----
-
-## 📂 Project Structure
-
-```
-
-📦 bloggenius/
-├── backend/
-│   ├── main.py              # FastAPI entrypoint
-│   ├── langgraph\_runner.py  # LangGraph app logic
-│   ├── models.py            # Pydantic models
-│   └── feedback\_buffer.py   # Temporary feedback storage
-├── frontend/
-│   ├── index.html
-│   ├── App.jsx              # React UI
-│   └── styles.css
-├── requirements.txt
-├── README.md
-└── package.json
-
-````
 
 ---
 
@@ -122,7 +98,7 @@ Example payload:
 
 ## 🧑‍💻 Author
 
-* **Himanshu Goel**
+* **Lakshay Goel**
   🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
   📧 [your.email@example.com](iamlakshaygoel5990@gmail.com)
 
